@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParantheses", "ValidParantheses\ValidParantheses.csproj", "{C3091C8B-B87F-4D6A-9ED9-F94D398CC9EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3091C8B-B87F-4D6A-9ED9-F94D398CC9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3091C8B-B87F-4D6A-9ED9-F94D398CC9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3091C8B-B87F-4D6A-9ED9-F94D398CC9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3091C8B-B87F-4D6A-9ED9-F94D398CC9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F7AD2C-87E8-457A-9A97-A66C81B76C30}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\bin\Debug\netcoreapp2.2\ValidParantheses.deps.json
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\bin\Debug\netcoreapp2.2\ValidParantheses.runtimeconfig.json
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\bin\Debug\netcoreapp2.2\ValidParantheses.runtimeconfig.dev.json
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\bin\Debug\netcoreapp2.2\ValidParantheses.dll
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\bin\Debug\netcoreapp2.2\ValidParantheses.pdb
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\obj\Debug\netcoreapp2.2\ValidParantheses.csprojAssemblyReference.cache
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\obj\Debug\netcoreapp2.2\ValidParantheses.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\obj\Debug\netcoreapp2.2\ValidParantheses.AssemblyInfoInputs.cache
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\obj\Debug\netcoreapp2.2\ValidParantheses.AssemblyInfo.cs
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\obj\Debug\netcoreapp2.2\ValidParantheses.dll
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\obj\Debug\netcoreapp2.2\ValidParantheses.pdb
+C:\Users\alexandra.szabo\source\repos\ValidParantheses\ValidParantheses\bin\Debug\netcoreapp2.2\test.txt
